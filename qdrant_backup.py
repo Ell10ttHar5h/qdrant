@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# example CMD line: python qdrant_backup.py -c n8n_qdrant -o C:/qdrant_backups
 import argparse
 import datetime
 import os
